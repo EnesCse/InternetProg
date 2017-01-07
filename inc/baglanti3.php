@@ -4,7 +4,7 @@ private $veritabaniadresi = "localhost";
 private $veritabani = "test";
 private $kullanici = "root";
 private $sifre = "";
-private $tablo = "ikinciel";
+private $tablo = "kiralikaraba";
 private $db=null;
 
 public function __construct() {
@@ -15,9 +15,9 @@ public function HTMLListele3(){
 
 echo <<<ABCDEFGH
 <div class="container">        
-   <table class="table table-bordered" style="width:600px;  height:630px; margin-top:-10px; margin-left:-5px;">
+   <table class="table table-bordered" style="width:600px;  height:789px; margin-top:-10px; margin-left:-5px;">
     <thead>
-     <tr class="danger">
+     <tr class="info">
 	<th>Model</th>
 	  <th>Marka</th>
 	    <th>Kiralanma Süresi</th>
@@ -31,10 +31,11 @@ ABCDEFGH;
 foreach($tablo as $satir){
 	
 echo <<<ABCDEFGH
- <tr class="success" >
+ <tr class="info" >
          <td>$satir[0]</td>  
         <td>$satir[1]</td>
         <td>$satir[2]</td>
+		<td>$satir[3]</td>
       </tr>
 ABCDEFGH;
 }

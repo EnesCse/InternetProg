@@ -15,9 +15,9 @@ public function HTMLListele(){
 
 echo <<<ABCDEFGH
 <div class="container">        
-  <table class="table table-bordered" style="width:600px;  height:630px; margin-top:-10px; margin-left:-5px;">
+  <table class="table table-bordered" style="width:600px;  height:108px; margin-top:-10px; margin-left:-5px;">
     <thead>
-     <tr class="danger">
+     <tr class="info">
 	   <th>Model</th>
 	  <th>Marka</th>
         <th>Fiyat</th>

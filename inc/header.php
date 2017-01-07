@@ -9,7 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/stil.css" rel="stylesheet">
     
     <link href="css/sticky-footer-navbar.css" rel="stylesheet">
 
@@ -38,7 +38,6 @@
   <li class="active"> <a href="?sayfa3=anasayfa" title="" >Anasayfa</a></li>
   <li> <a href="?sayfa=hakkimizda" title="">Hakkımızda</a></li>
   <li> <a href="?sayfa=iletisim" title="">İletişim</a></li>
- 
   </ul>
   </div>
   </div>
