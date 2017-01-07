@@ -1,3 +1,4 @@
 # InternetProg
-InternetProgramcılıgıOdev
-ENES COSKUN 157904015
+InternetProgramcılıgıOdev Projesi
+ENES COSKUN 
+157904015
