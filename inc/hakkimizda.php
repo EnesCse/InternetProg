@@ -8,24 +8,11 @@
 </div>
 <div class="container">
 <div class="col-lg-12">
-<img class="img-responsive img-rounded" src="img/11.jpg"  style="margin-top:-90px; height:300px; width:1250px;"/>
-<div class="jumbotron" style="margin-top:-100px; "><p class="text-left" style="margin-top:50px;"> Emlak sektörünü tek bir çatı altında buluşturmayı hedefleyen, kesintisiz, yüksek kaliteli hizmeti, güncel ve detaylı ilanları, haberleri ile emlak sektörünün nabzını tutan emlak platformudur.<br />
-<br />
-<b>HEDEFLERİMİZ<br /></b>
-Hurriyetemlak.com'un öncelikli hedefi bireysel kullanıcılarımıza ve kurumsal iş ortaklarımız emlak ofislerine, hem görsel hem de teknik olarak yüksek kalitede hizmet vermek ve emlak sektöründeki tüm oyuncuları tek bir çatı altında buluşturmaktır.
-<br />
-Hürriyet markasının emlak ve inşaat sektörlerine tartışmasız yakınlığı bu hedefimize ulaşma yolunda önemli desteklerimizden biridir.
-<br />
-<b>AMAÇLARIMIZ<br /></b>
-<b>Emlak ofislerinin ilk tercihi olmak:</b> Detaylı portföy yayınlama imkanı ile bilinçli ve alım gücü yüksek hedef kitleye ulaşma olanağı emlak ofisleri ile işbirliğimizin temelidir.
-<br />
-<b>Emlak arama zahmetini en aza indirmek:</b> Sitede üye olmadan zahmetsizce detaylı ilan aramak, kriterleri verilen yeni ilanlardan haberdar edilmek, ilanlar arasında karşılaştırma yapabilmek emlak arama zahmetini en aza indiren kullanıcı dostu bir site olmamızı sağladı.
-<br />
-<b>Emlak sektörünü tek bir çatı altında toplamak:</b> Doğru, kaliteli hizmet ile profesyonel emlak ofislerini, inşaat firmalarını ve ne aradığını bilen bilinçli alıcıları sektörün tek adresinde buluşturmayı hedeflemektedir.
-<br />
-<b>Güncel ve doğru hizmetin önemini vurgulamak:</b> Gerçek alıcı ve satıcıları ,doğru ve güncel ilanlar için buluşturmak ve hedeflerine hızlı ulaşmalarını sağlamak.
-<br />
-<b>Sektöre yeni hizmetler sunmak:</b> Sektör kalitesini ve verimini artıracak teknoloji destekli tüm yenilikleri hızlı ve gelişmekte olan emlak sektörüne sunmak.<br /></p>
+<img class="img-responsive img-rounded" src="img/Eski_Arabalar1.jpg"  style="margin-top:-90px; height:300px; width:1250px;"/>
+<div class="jumbotron" style="margin-top:-100px; "><p class="text-left" style="margin-top:50px;"><br/>Araba Sitem,kullanıcıların kesintisiz ve yüksek kaliteli hizmet sunan, güncel ve detaylı ilanları ile sektörde önde gelen, milyonlarca ziyaretçi potansiyeli ile en hızlı sonuç veren otomobil ilan sitesidir.
+Araba Sitem.'in en büyük amacı kullanıcılarının güncel ilanlar arasında arama yaparak ihtiyaç duydukları otomobillere kolayca ulaşabilmeleri, araçlarını hızlı ve pratik bir şekilde satabilmeleridir. Araba.Sitem  bu amaçtan yola çıkarak sürekli büyüme ve iyileşme yolunda emin adımlarla ilerlemektedir.
+Misyonumuz, sürekli geliştirmekte olduğumuz özelliklerimiz ile bireysel üyelerimize ve kurumsal firmalarımıza pratik, görsel açıdan zengin, teknik açıdan yüksek kalitede, müşteri hizmetleri ile tüm ihtiyaçlarınıza cevap verecek donanımda ve kesintisiz hizmet vermektir.
+7/24 Kesintisiz Hizmeti ve Sorun Çözücü Müşteri Hizmetleri İle Araba. Sitem Hep Yanınızda!
 </div>
 </div>
 </div>
