@@ -35,9 +35,9 @@
    </div>
    <div class="collapse navbar-collapse navbarSec">
   <ul class="nav navbar-nav navbar-right">
-  <li class="active"> <a href="?sayfa3=Anasayfa" title="" >Anasayfa</a></li>
-  <li> <a href="?sayfa=Hakkimizda" title="">Hakkımızda</a></li>
-  <li> <a href="?sayfa=Iletisim" title="">İletişim</a></li>
+  <li class="active"> <a href="?sayfa3=anasayfa" title="" >Anasayfa</a></li>
+  <li> <a href="?sayfa=hakkimizda" title="">Hakkımızda</a></li>
+  <li> <a href="?sayfa=iletisim" title="">İletişim</a></li>
  
   </ul>
   </div>

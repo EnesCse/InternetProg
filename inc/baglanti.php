@@ -4,7 +4,7 @@ private $veritabaniadresi = "localhost";
 private $veritabani = "test";
 private $kullanici = "root";
 private $sifre = "";
-private $tablo = "ikinciel";
+private $tablo = "satilikaraba";
 private $db=null;
 
 public function __construct() {
@@ -17,9 +17,9 @@ echo <<<ABCDEFGH
 <div class="container">        
   <table class="table table-bordered" style="width:600px;  height:630px; margin-top:-10px; margin-left:-5px;">
     <thead>
-     <tr class="danger">	
-        <th>Marka</th>
-        <th>Model</th>
+     <tr class="danger">
+	   <th>Model</th>
+	  <th>Marka</th>
         <th>Fiyat</th>
       </tr>
     </thead>
@@ -33,7 +33,9 @@ echo <<<ABCDEFGH
  <tr class="info" style="height:125px;">
          <td>$satir[0]</td>  
         <td>$satir[1]</td>
-        <td>$satir[2]</td>	   
+        <td>$satir[2]</td>
+		
+	   
       </tr>
 ABCDEFGH;
 }
