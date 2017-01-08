@@ -44,7 +44,7 @@ include("dbconnect.php");
     <div class="container" style="margin-left:170px;">
     <div class="well form-group" style="width:250px;">
       		<button type="submit" class="btn btn-default btn btn-success" name="Gonder">Gönder</button>
-     		<button type="reset" class="btn btn-default btn-danger" name="Temizle">Temizle</button>
-         </div>
-         </div>
-</form>
+     		<button type="reset" class="btn btn-default btn-danger" name="Temizle">Temizle</button></form>
+         </div> 
+        </div>
+        
