@@ -1,4 +1,7 @@
+<?php
 
+include("dbconnect.php");
+?>
 <div class="container">
 
 <div class="jumbotron" style="margin-top:-100px; ">
@@ -8,10 +11,12 @@
 </div>
 </div>
 </div>
+
 <div class="container">
 <div class="jumbotron" style="margin-top:-87px; ">
 <div class="well form-group">
-<form class="form-horizontal" role="form" method="post" action="inc/veri.php">
+
+<form class="form-horizontal" role="form" method="post" action="inc/userproces.php" name="user">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Adınız</label>
         <div class="col-sm-10">
@@ -42,8 +47,4 @@
      		<button type="reset" class="btn btn-default btn-danger" name="Temizle">Temizle</button>
          </div>
          </div>
-    </div>
-    </div>
-    </div>
-    </div>
 </form>
